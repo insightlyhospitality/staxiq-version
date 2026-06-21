@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.15.0",
+  "latestVersion": "1.16.0",
   "downloadUrl": "https://staxiq.app",
-  "notes": "Adds AI deal entry, market benchmark defaults, assumption review, term sheet upload, a cleaner dashboard, and a new maximise and sidebar-collapse reading view."
+  "notes": "Adds built-in AI with no key needed, an always-on Agent that edits your model, runs what-ifs and answers questions, a slicker sidebar, and a faster AI-first start."
 }
