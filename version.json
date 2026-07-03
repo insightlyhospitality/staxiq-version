@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.16.0",
+  "latestVersion": "1.16.1",
   "downloadUrl": "https://staxiq.app",
-  "notes": "Adds built-in AI with no key needed, an always-on Agent that edits your model, runs what-ifs and answers questions, a slicker sidebar, and a faster AI-first start."
+  "notes": "Model Comparison redesigned: cleaner cards, no overflow, equal heights."
 }
