@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.16.1",
-  "downloadUrl": "https://staxiq.app",
-  "notes": "Model Comparison redesigned: cleaner cards, no overflow, equal heights."
+  "latestVersion": "1.17.0",
+  "downloadUrl": "https://staxiq.app/#download",
+  "notes": "The Agent now remembers your conversation: follow-up answers and clarifying questions work naturally, and replies with notes attached display cleanly."
 }
