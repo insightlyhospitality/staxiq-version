@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.17.0",
+  "latestVersion": "1.17.1",
   "downloadUrl": "https://staxiq.app/#download",
-  "notes": "The Agent now remembers your conversation: follow-up answers and clarifying questions work naturally, and replies with notes attached display cleanly."
+  "notes": "A refined interface: a subtle settle-in on launch, and responsive hover feedback on cards and buttons. No changes to any calculation."
 }
