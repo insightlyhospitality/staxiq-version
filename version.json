@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.17.1",
+  "latestVersion": "1.17.2",
   "downloadUrl": "https://staxiq.app/#download",
-  "notes": "A refined interface: a subtle settle-in on launch, and responsive hover feedback on cards and buttons. No changes to any calculation."
+  "notes": "Corrects the ROI owner-priority hurdle and adds agent prompts for missing deal terms."
 }
