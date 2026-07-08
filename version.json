@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.17.2",
+  "latestVersion": "1.17.3",
   "downloadUrl": "https://staxiq.app/#download",
-  "notes": "Corrects the ROI owner-priority hurdle and adds agent prompts for missing deal terms."
+  "notes": "Adds a stepped, per-year base management fee option for management agreements."
 }
