@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.17.3",
+  "latestVersion": "1.18.0",
   "downloadUrl": "https://staxiq.app/#download",
-  "notes": "Adds a stepped, per-year base management fee option for management agreements."
+  "notes": "New: Help & feedback built into the app (sidebar or the ? in the Agent panel), and dictation tips on the AI inputs."
 }
